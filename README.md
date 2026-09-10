@@ -6,7 +6,7 @@ This repository contains the Jupyter Notebook implementation and exported report
 ## Key Implementations
 The assignment consists of algorithm development and practical applications across several domains of image processing:
 
-*   **Intensity Transformations:** Custom breakpoint piecewise linear transformations, gamma correction in the $L^{*}a^{*}b^{*}$ color space, and vibrance enhancement in the HSV color space.
+*   **Intensity Transformations:** Custom breakpoint piecewise linear transformations, gamma correction in the L*a*b* color space, and vibrance enhancement in the HSV color space.
 *   **Histogram Processing:** Global histogram equalization and targeted foreground-only histogram equalization using binary masking.
 *   **Neighborhood Filtering:** Edge detection and gradient computation using the Sobel operator (both built-in and custom implementations).
 *   **Image Scaling:** Implementation of nearest-neighbor and bilinear interpolation for image zooming, evaluated using normalized Sum of Squared Differences (SSD).
